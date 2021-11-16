@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kulkarniyash7
-- 👀 I’m interested in GameDevelopment;WebDevlopment; Designing apps; Android app development.
+- 👀 I’m interested in UI / UX roles & Web Development.
 
 - 🌱 I’m currently learning things that in which I have interest!
 - 💞️ I’m looking to collaborate on anything having a bit of back-end and a lot of front end development.
