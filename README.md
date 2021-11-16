@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kulkarniyash7
 - 👀 I’m interested in GameDevelopment;WebDevlopment; Designing apps; Android app development.
 
-- 🌱 I’m currently learning Computer Science and Engineering; also a UX design course by Google.
+- 🌱 I’m currently learning things that in which I have interest!
 - 💞️ I’m looking to collaborate on anything having a bit of back-end and a lot of front end development.
 - 📫 How to reach me on GitHub and also by Mailing me 'kulkarniyash7@outlook.com'.
 
