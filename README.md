@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kulkarniyash7
-- 👀 I’m interested in GameDevelopment;WebDevlopment; Designing apps; Android app development.
+- 👀 I’m interested in UI / UX Design roles, Web Development.
 
 - 🌱 I’m currently learning things that in which I have interest!
-- 💞️ I’m looking to collaborate on anything having a bit of back-end and a lot of front end development.
-- 📫 How to reach me on GitHub and also by Mailing me 'kulkarniyash7@outlook.com'.
+- 💞️ I’m looking to collaborate with people having UI / UX and Web Development opportunities!
+- 📫 You can reach me on GitHub and also by Mailing me 'kulkarniyash7@outlook.com'.
 
 <!---
 Kulkarniyash7/Kulkarniyash7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
