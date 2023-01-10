@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning things that in which I have interest!
 - 💞️ I’m looking to collaborate with people having UI / UX and Web Development opportunities!
-- 📫 You can reach me on GitHub and also by Mailing me 'kulkarniyash7@outlook.com'.
+- 📫 You can reach me on Twitter and also by Mailing me 'kulkarniyash7@outlook.com'.
 
 <!---
 Kulkarniyash7/Kulkarniyash7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
