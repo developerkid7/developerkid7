@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning data analytics from diffrent online reources.
 - 💞️ I’m looking to collaborate with data analytics people.
-- 📫 You can reach me on Twitter and also by Mailing me 'kulkarniyash7.live'.
+- 📫 You can reach me on Twitter and also by Mailing me 'kulkarniyash1602@gmail.com'.
 
 <!---
 Kulkarniyash7/Kulkarniyash7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
