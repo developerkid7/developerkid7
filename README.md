@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kulkarniyash7
+- 👋 Hi, I’m Yash , 
+- You will find me doing code every night.
 - 👀 I’m interested in Web Development , Machine Learning and Data Analytics.
 
 - 🌱 I’m currently learning data analytics from diffrent online reources.
